@@ -1,0 +1,15 @@
+{
+  "name": "tsc-tuto",
+  "version": "1.0.0",
+  "description": "typescript tutorial",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "kaj risberg",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^4.1.6"
+  }
+}
